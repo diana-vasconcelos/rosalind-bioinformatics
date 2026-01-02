@@ -33,4 +33,4 @@ Dieses Repository enthält meine Lösungen für Bioinformatik-Herausforderungen.
 
 ---
 
-**Connect with me:** [LinkedIn](www.linkedin.com/in/diana-vasconcelos-a9b2082b8) | [Email](dianavasconcelos.jobs@gmail.com)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-vasconcelos-a9b2082b8) | [Email](mailto:dianavasconcelos.jobs@gmail.com)
